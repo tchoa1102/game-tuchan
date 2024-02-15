@@ -1,0 +1,6 @@
+[submodule "Game_Tu_Chan__Client_Vue"]
+	path = Game_Tu_Chan__Client_Vue
+	url = https://github.com/tchoa1593/Game_Tu_Chan__Client_Vue.git
+[submodule "Game_Tu_Chan__API_NodeJS"]
+	path = Game_Tu_Chan__API_NodeJS
+	url = https://github.com/tchoa1593/Game_Tu_Chan__API_NodeJS.git
